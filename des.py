@@ -366,4 +366,10 @@ if __name__ == '__main__':
 
 
 
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# source1: https://russianblogs.com/article/5237992568/
+# source2: https://pythonru.com/osnovy/fajly-v-python-vvod-vyvod
+
+
 
